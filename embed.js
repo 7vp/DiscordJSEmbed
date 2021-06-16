@@ -10,4 +10,4 @@ client.on('message', message => {
   }
 });
 // Based on the DOCS. 
-// Kickeado // @kickeadoh
+// Vicen // @Vicensk
